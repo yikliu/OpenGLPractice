@@ -1,0 +1,7 @@
+Self-made OpenGL projects:
+1. Interactive polygon drawing
+2. 2D Bazier Curve Drawing and Surface Generation by Bezier Curve Extrution
+3. A simple Solar System
+
+See individual README for complication and execution. 
+All projects rely on opengl library and glut library.
